@@ -1,5 +1,7 @@
+[![MasterHead](https://cdn.discordapp.com/attachments/1116789365335675024/1117029396574896228/Aniket_kumar_sinha.png)
 <h1 align="center">Hi 👋, I'm Aniket</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-villan6278" alt="its-villan6278" /></a> </p>
 
